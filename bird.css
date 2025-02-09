@@ -1,0 +1,11 @@
+body{
+    font-family: "Times New Roman",Times,serif;
+    text-align: center;
+
+}
+#board{
+    background-color: aqua;
+    background-image: url("https://i.pinimg.com/564x/b2/b0/84/b2b084ad6061dfe2122302266ea8af58.jpg");
+}
+
+
